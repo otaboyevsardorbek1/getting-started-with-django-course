@@ -39,3 +39,7 @@ An **intermediate understanding of the Python language is recommended**, student
 
 Additionally, **familiarity with basic web concepts is of value** including common HTML tags, basic CSS style sheets, and HTTP Verbs such as GET and POST.
 
+
+
+
+manba: https://github.com/orgs/talkpython/
